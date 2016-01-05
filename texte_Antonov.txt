@@ -1,0 +1,29 @@
+Qu'est ce qu'une sphére isotherme ? C'est le modèle idéal de la thermodynamique. Mais, il est possible de montrer que
+TOUTES les sphéres isothermes ont un problème : elles ont une masse totale infinie.
+
+Pour résoudre ce souci, la solution proposée a été d'introduire une troncature. 2 moyens ont été proposés :
+La méthode de King est d'introduire une énergie au delà de laquelle les particules ne sont plus dans le système.
+Une autre méthode, "plus propre", consiste a imposer un rayon maximum à l'objet. C'est la sphére isotherme en boîte.
+
+La SIB, qui est la cadre d'application de l'instabilité d'antonov, à 3 paramètres :
+	- son rayon
+	- son énergie
+	- sa température
+Ces 2 derniers paramètres sont reliés par l'équation de Poisson. En traçant dans le Plan Énergie température toutes
+les solutions de Poisson, on obtient la courbe rouge, ou chaque point représente UNE SIB.
+
+Si la SIB a un petit rayon, elle se trouve en bas à droite, puis avec R, ou le contraste de densité, qui augmente,
+elle se déplace vers la gauche sur la spirale. Elle va passer par 2 point, représenté par les tangentes verticales
+et horizontales qui correspondent à des instablités.
+
+Le point intéressant, c'est que, selon que l'on impose l'énergie ou la température au bord de la sphère, on va pouvoir
+atteindre l'une ou l'autre des ces instabilité. C'est le problème d'antonov.
+
+Ce problème, académique, ne s'applique qu'au SIB. Or nous aimerions pouvoir appliquer cette théorie à des objets plus
+physique comme les Amas Globulaires. Nous avons vu que ces derniers était très bien ajusté par le modèle de King, qui est
+quasi-isotherme, et présente en plus un profil coeur-halo, de pente différente de -2. Nous avons essayé, à l'aide de quelques
+approximations, et ça fonctionne.
+
+Nous sommes maintenant entrain de faire/préparer des simulations qui vont nous permettre de vérifier ce Modèle d'instabilité
+d'Antonov généralisé. Pour cela, nous générons des profils de King que nous plongeons dans d'autres objets faisant office de
+bains thermiques. Le but étant de faire s'effondrer l'objet.

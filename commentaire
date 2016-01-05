@@ -1,0 +1,52 @@
+Faire un clone !
+Pas de laser (possiblement souris) !
+
+Préciser ...
+
+DM -> Halo
+
+Revoir Présentation Antonov
+
+facterus d'évolution proposé jusqu'à maintenant, on verra qu'il y en a peut-être d'autre
+
+Hypothése faite avec sag c'est qu'il sont à l'équilibre => comme peuvent être assimilé à gaz d'étoile -> physique statistique
+
+Attention aux transition entre section !
+
+Le resultat de l'instabilité de ??? c'est ...
+
+Antonov -> tout préciser axes
+
+Obj -> s
+
+Densité \rho __
+
+syst evolu vers tres stable....
+
+Code Vlasov: au lieu utilisé part, on modélise par grille ds espace phase -> r, v_r, j
+comparaison pour tranche angulaire fixé.
+comp entre gadget et un code n-corps pas suscpetible de subir les mêmes effets.
+
+-0.1 --> effondrement plus violent -->...
+
+Qd on trace T(H), chaque point de la courbe est une SIB. Qd force à une valeur, c'est une instabilité
+
+Précisé quel ensemble, cuel tangente
+
+Plus précis avec IOR:
+	Antonov que des orbites radiale
+
+	Syst très anisotrope stable
+	Syst peu anisotrope instable
+
+
+
+Henon:
+	Hénon instable ==> produit un syst stable
+
+	-> aliasing => effet de crénelage
+
+
+Film une seule fois ! Avec commentaire !
+
+perspective sur une slides.
